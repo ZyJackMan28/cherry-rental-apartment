@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-rental-manage-api-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-rental-manage-api-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-rental-manage-dubbo-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-rental-manage-dubbo-server/rental-dubbo-server-ads" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-rental-manage-dubbo-server/rental-dubbo-server-ads/rental-dubbo-server-ads-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-rental-manage-dubbo-server/rental-dubbo-server-ads/rental-dubbo-server-ads-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-rental-manage-dubbo-server/rental-dubbo-server-ads/rental-dubbo-server-ads-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-rental-manage-dubbo-server/rental-dubbo-server-ads/rental-dubbo-server-ads-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-rental-manage-dubbo-server/rental-dubbo-server-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-rental-manage-dubbo-server/rental-dubbo-server-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-rental-manage-dubbo-server/rental-dubbo-server-gen" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-rental-manage-dubbo-server/rental-dubbo-server-gen/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-rental-manage-dubbo-server/server-house-resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-rental-manage-dubbo-server/server-house-resource/housesource-dubbo-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-rental-manage-dubbo-server/server-house-resource/housesource-dubbo-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-rental-manage-dubbo-server/server-house-resource/housesource-dubbo-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-rental-manage-dubbo-server/server-house-resource/housesource-dubbo-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-rental-manage-dubbo-server/server-house-resource/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-rental-manage-dubbo-server/server-house-resource/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-rental-manage-dubbo-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-rental-manage-dubbo-server/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

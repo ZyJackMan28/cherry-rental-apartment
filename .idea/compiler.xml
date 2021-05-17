@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="housesource-dubbo-service" />
+        <module name="rental-dubbo-server-ads-interface" />
+        <module name="rental-dubbo-server-ads-service" />
+        <module name="rental-dubbo-server-common" />
+        <module name="rental-dubbo-server-gen" />
+        <module name="housesource-dubbo-interface" />
+        <module name="learn-rental-manage-api-server" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="housesource-dubbo-interface" options="-parameters" />
+      <module name="housesource-dubbo-service" options="-parameters" />
+      <module name="learn-rental-manage-api-server" options="-parameters" />
+      <module name="learn-rental-manage-dubbo-server" options="-parameters" />
+      <module name="rental-dubbo-server-ads" options="-parameters" />
+      <module name="rental-dubbo-server-ads-interface" options="-parameters" />
+      <module name="rental-dubbo-server-ads-service" options="-parameters" />
+      <module name="rental-dubbo-server-common" options="-parameters" />
+      <module name="rental-dubbo-server-gen" options="-parameters" />
+      <module name="server-house-resource" options="-parameters" />
+    </option>
+  </component>
+</project>
